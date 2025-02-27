@@ -1,0 +1,2 @@
+Generate Typescript configuration file
+npx tsc --init

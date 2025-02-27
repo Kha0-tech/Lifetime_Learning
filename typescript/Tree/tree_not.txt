@@ -1,0 +1,7 @@
+Tree
+Combine of Node (Node တွေဖွဲ့စည်းထာတာကို Tree လို့ခေါပါတယ်)
+children and 
+
+
+Binary Tree ဆိုတာ left child and right child နစ်ခုပဲရှိတာဆိုလိုခြင်းဖြစ်သည်
+Noraml Tree ဆိုတာ child အများကြီးရှိတာဆိုလိုခြင်းဖြစ်သည်

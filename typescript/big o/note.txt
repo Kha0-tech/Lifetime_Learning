@@ -1,0 +1,5 @@
+Notation             Name                     Performance       Example
+
+O(1)         Constant Time               Excellent        Array access
+O(log n)     Logarithmic Time            Very Good         Binary search
+O(n)              

@@ -1,0 +1,10 @@
+where did we use
+Tree Traversals
+File system Traversals
+Graph Alogrithm like DFS
+Factorial 
+Fibonacci
+Quick sort ,Merge sort
+Dynamic Programming
+Backtracking Alogrithm
+web crawling
