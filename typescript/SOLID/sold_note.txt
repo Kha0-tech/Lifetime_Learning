@@ -1,0 +1,9 @@
+Presentation Layer              ->          (UI/UX)
+
+Domain Layer (Business)         ->          user validatoin ,usermodel , business logic  
+
+Database                        ->          Usr Repo
+
+Integration                     ->          Email Notifaction
+
+
